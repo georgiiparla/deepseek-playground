@@ -1,0 +1,4 @@
+node_modules
+.env
+tsup.config.ts
+dist
