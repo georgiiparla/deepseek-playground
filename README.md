@@ -2,14 +2,6 @@
 
 A simple and type-safe builder for creating conversation contexts for AI completions with OpenAI and DeepSeek models.
 
-## Repository Name Suggestions
-
-- **context-builder**
-- **llm-context** 
-- **prompt-builder**
-- **conversation-crafter**
-- **aicontext**
-
 ## Getting Started
 
 ### Prerequisites
