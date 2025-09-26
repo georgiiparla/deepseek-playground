@@ -19,8 +19,7 @@ ollama run deepseek-r1
 
 ### Installation
 
-Install the package using your preferred package manager (source code for this project: :
-https://github.com/georgiiparla/deepseek-playground/tree/main
+Install the package using your preferred package manager (source code for this project: https://github.com/georgiiparla/context-builder)
 ```bash
 npm install completions_playground2
 ```
